@@ -1,0 +1,16 @@
+{
+    "serverId" : "",
+    "responseToUser" : "",
+    "userIdsToExcludeFromTrigger" : [
+        ""
+    ],
+    "roleIdsToExcludeFromTrigger" : [
+        ""
+    ],
+    "usersToCheckFor" : [
+        ""
+    ],
+    "rolesToCheckFor" : [
+        ""
+    ]
+}
